@@ -1,4 +1,5 @@
 <p align="center">
+<h1>Test de modification sur Git</h1>
   <a href="https://getbootstrap.com/">
     <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
   </a>
@@ -29,16 +30,22 @@ Our default branch is for development of our Bootstrap 5 release. Head to the [`
 
 ## Table of contents
 
+- [Bootstrap 5](#bootstrap-5)
+- [Table of contents](#table-of-contents)
 - [Quick start](#quick-start)
 - [Status](#status)
 - [What's included](#whats-included)
 - [Bugs and feature requests](#bugs-and-feature-requests)
 - [Documentation](#documentation)
+  - [Running documentation locally](#running-documentation-locally)
+  - [Documentation for previous releases](#documentation-for-previous-releases)
 - [Contributing](#contributing)
 - [Community](#community)
 - [Versioning](#versioning)
 - [Creators](#creators)
 - [Thanks](#thanks)
+- [Sponsors](#sponsors)
+- [Backers](#backers)
 - [Copyright and license](#copyright-and-license)
 
 
